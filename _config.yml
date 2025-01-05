@@ -1,4 +1,4 @@
 # add the following to _config.yml file
 title: Rhaven Nelson
-theme: jeykll-theme-minimal
-
+plugins:
+- jekyll-remote-theme
