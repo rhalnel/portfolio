@@ -1,6 +1,6 @@
 # add the following to _config.yml file
 title: Rhaven Nelson
-logo: /assets/img/RhavenNelson.png
+logo: /assets/img/RhavenNelsonsmall.png
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
