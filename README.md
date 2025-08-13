@@ -1,8 +1,9 @@
 # Data Scientist
 
 ### Education
-MBA - University of Pittsburgh
-
+- M.B.A, Business Analaytics | University of Pittsburgh (_December 2023_)
+- B.S., Information Systems | Slippery Rock University (_August 1999_)
+  
 ### Work Experience
 **Research Database Programmer @  University of Pittsburgh (_August 2016 - Present_)**
 - Perform data analysis and visualization on survey data using R, Python and SPSS, enhancing insights through
@@ -21,3 +22,8 @@ workflows.
 definitions for seamless data transitions from content management systems.
 - Provided global technical support by troubleshooting import/export functionality and resolving data discrepancies
 using Microsoft Access and XML data transformation methods.
+
+**Research Analyst @ University of Pittsburgh (_April 2007 - September 2015_)**
+- Managed and analyzed quantitative numeric and image data related to radiotracer research projects.
+- Designed, developed, and maintained database systems to support research initiatives.
+- Mentored team members in data analysis techniques, enhancing their research capabilities.
