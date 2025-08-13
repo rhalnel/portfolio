@@ -5,13 +5,13 @@ MBA - University of Pittsburgh
 
 ### Work Experience
 **Research Database Programmer @  University of Pittsburgh (_August 2016 - Present_)**
--Perform data analysis and visualization on survey data using R, Python and SPSS, enhancing insights through
+- Perform data analysis and visualization on survey data using R, Python and SPSS, enhancing insights through
 statistical and text analysis.
-• Design and develop interactive dashboards with PHP and PostgreSQL, allowing real-time tracking of survey
+- Design and develop interactive dashboards with PHP and PostgreSQL, allowing real-time tracking of survey
 participants and key metrics.
-• Manage and program Qualtrics systems, integrating with CATI software to improve survey processes and
+- Manage and program Qualtrics systems, integrating with CATI software to improve survey processes and
 operational efficiency.
-• Collaborate with clients to define system requirements and implement changes, ensuring seamless survey execution
+- Collaborate with clients to define system requirements and implement changes, ensuring seamless survey execution
 and data integrity.
 
 **Content Engineer @ Thermo Fisher Scientific (_September 2015 - July 2016_)**
