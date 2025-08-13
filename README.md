@@ -1,7 +1,7 @@
 # Data Scientist
 
 ### Education
-- M.B.A, Business Analaytics | University of Pittsburgh (_December 2023_)
+- M.B.A, Business Analytics | University of Pittsburgh (_December 2023_)
 - B.S., Information Systems | Slippery Rock University (_August 1999_)
   
 ### Work Experience
