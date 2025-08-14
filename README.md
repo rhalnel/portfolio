@@ -1,10 +1,12 @@
 # Data Scientist
 
-### Education
+#### Technical Skills: Python, R, SQL, Tableau
+
+## Education
 - M.B.A, Business Analytics | University of Pittsburgh (_Dec 2023_)
 - B.S., Information Systems | Slippery Rock University (_Aug 1999_)
   
-### Work Experience
+## Work Experience
 **Research Database Programmer @  University of Pittsburgh (_Aug 2016 - Present_)**
 - Perform data analysis and visualization on survey data using R, Python and SPSS, enhancing insights through
 statistical and text analysis.
@@ -28,4 +30,4 @@ using Microsoft Access and XML data transformation methods.
 - Designed, developed, and maintained database systems to support research initiatives.
 - Mentored team members in data analysis techniques, enhancing their research capabilities.
 
-### Projects
+## Projects
