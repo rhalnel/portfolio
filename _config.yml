@@ -1,7 +1,6 @@
 # add the following to _config.yml file
 title: Rhaven Nelson
-logo: 
-  medium: /assets/img/Rhaven_Nelson2.png
+logo: /assets/img/Rhaven_Nelson2.png
 description: data science portfolio
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
