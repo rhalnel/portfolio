@@ -27,3 +27,5 @@ using Microsoft Access and XML data transformation methods.
 - Managed and analyzed quantitative numeric and image data related to radiotracer research projects.
 - Designed, developed, and maintained database systems to support research initiatives.
 - Mentored team members in data analysis techniques, enhancing their research capabilities.
+
+### Projects
