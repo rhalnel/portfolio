@@ -5,7 +5,7 @@
 - B.S., Information Systems | Slippery Rock University (_Aug 1999_)
   
 ### Work Experience
-**Research Database Programmer @  University of Pittsburgh (_August 2016 - Present_)**
+**Research Database Programmer @  University of Pittsburgh (_Aug 2016 - Present_)**
 - Perform data analysis and visualization on survey data using R, Python and SPSS, enhancing insights through
 statistical and text analysis.
 - Design and develop interactive dashboards with PHP and PostgreSQL, allowing real-time tracking of survey
@@ -15,7 +15,7 @@ operational efficiency.
 - Collaborate with clients to define system requirements and implement changes, ensuring seamless survey execution
 and data integrity.
 
-**Content Engineer @ Thermo Fisher Scientific (_September 2015 - July 2016_)**
+**Content Engineer @ Thermo Fisher Scientific (_Sept 2015 - Jul 2016_)**
 - Supported global content model development and maintenance by optimizing content imports and data processing
 workflows.
 - Managed recurring content activities, including asset, content, and price imports, and maintained export
@@ -23,7 +23,7 @@ definitions for seamless data transitions from content management systems.
 - Provided global technical support by troubleshooting import/export functionality and resolving data discrepancies
 using Microsoft Access and XML data transformation methods.
 
-**Research Analyst @ University of Pittsburgh (_April 2007 - September 2015_)**
+**Research Analyst @ University of Pittsburgh (_Apr 2007 - Sept 2015_)**
 - Managed and analyzed quantitative numeric and image data related to radiotracer research projects.
 - Designed, developed, and maintained database systems to support research initiatives.
 - Mentored team members in data analysis techniques, enhancing their research capabilities.
